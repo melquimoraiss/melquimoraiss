@@ -12,7 +12,7 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  ![Melqui GitHub stats](https://github-readme-stats.vercel.app/api?username=melquimoraiss&show_icons=true&theme=radical)
+[![Melqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=melquimoraiss&show_icons=true&theme=transparent)]
 </div><br/>
 
 💻 Dev Full Stack
