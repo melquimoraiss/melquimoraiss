@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Melqui Morais 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/melqui.moraiss)
-![Melqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=melquimoraiss&show_icons=true&theme=radical)
+![Melqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=melquimoraiss&show_icons=true&theme=aura)
 
 
 ## Tecnologias que eu uso no meu dia
